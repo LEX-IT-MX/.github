@@ -11,15 +11,15 @@ Ofrecer una herramienta accesible, interactiva e innovadora que facilite el apre
 ---
 
 ## 🌎 Visión
-Convertirnos en la plataforma de referencia mundial en aprendizaje digital de idiomas, integrando inteligencia artificial y metodologías pedagógicas de vanguardia para experiencias inmersivas, inclusivas y efectivas.  
+Convertirnos en la plataforma de referencia mundial en aprendizaje digital de idiomas, integrando metodologías pedagógicas de vanguardia para experiencias inmersivas, inclusivas y efectivas.  
 
 ---
 
 ## 🚀 Qué hacemos
-- 📲 Enseñanza de idiomas a través de WhatsApp con ejercicios dinámicos y multimedia.  
-- 🤖 Integración de IA para retroalimentación inmediata y personalizada.  
-- 🎓 Recursos pedagógicos diseñados bajo estándares internacionales (MCER).  
-- 🌍 Promoción de inclusión cultural y accesibilidad educativa.  
+- Enseñanza de idiomas a través de WhatsApp con ejercicios dinámicos y multimedia.  
+- Retroalimentación inmediata y personalizada.  
+- Recursos pedagógicos diseñados bajo estándares internacionales (MCER).  
+- Promoción de inclusión cultural y accesibilidad educativa.  
 
 ---
 
@@ -33,13 +33,15 @@ Convertirnos en la plataforma de referencia mundial en aprendizaje digital de id
 ---
 
 ## 📬 Contáctanos
-- 🌐 Sitio web: [https://lexit.mx](https://lexit.mx)  
-- 💬 WhatsApp (demo): [+52 XXX XXX XXXX](#)  
-- 🔗 Redes sociales: [Instagram](https://instagram.com) · [LinkedIn](https://linkedin.com)  
-- 📧 Correo: contacto@lexit.mx  
+- 🌐 Sitio web: 
+- 🔗 Redes sociales: 
+    - [Instagram](https://www.instagram.com/lex_it_mx/)
+    - [LinkedIn](https://linkedin.com/company/lenguas-extranjeras-e-inmersión-tecnológica)  
+    - [Facebook](https://www.facebook.com/LEXIT.Academia)
+- 📧 Correo: contacto.lexit@gmail.com
 
 ---
 
-## 🇲🇽 Orgullosamente hecho en México
+## 🇲🇽 Hecho en México
 LEX IT nació en México con la convicción de que **la educación en idiomas debe estar al alcance de todos**.  
 Con innovación, pedagogía y cultura, transformamos la manera de aprender lenguas.  
